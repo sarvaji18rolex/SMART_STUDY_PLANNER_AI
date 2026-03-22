@@ -1,2 +1,2 @@
 # SMART_STUDY_PLANNER_AI
- 
+  
